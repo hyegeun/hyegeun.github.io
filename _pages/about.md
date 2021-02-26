@@ -13,7 +13,7 @@ classes: wide
     <img src="/assets/images/about_photo/about_photo1.jpg" width="300px" height="300px" alt="photo1">   
     
     
-  * 큐브   
+  * **큐브**   
   → 초딩 때부터 공식 외워놓고 돌리는거지만 생각없이 돌리면서 맞추다 보면 정신 건강에 좋은 듯   
     <img src="/assets/images/about_photo/about_photo2.jpg" width="300px" height="300px" alt="photo1">   
    
