@@ -10,12 +10,12 @@ classes: wide
   * **피아노**   
   → 나름 절대음감 타고나서 피아노 치는거 좋아함   
   → 살레 다니면서 합창대회 반주도 하고 축제 때 쌤들 밴드에 껴서 키보드도 해보고 생각보다 뭘 했었네?   
-  <img src="/assets/images/about_photo/about_photo1.jpg" width="300px" height="300px" alt="photo1">   
+    <img src="/assets/images/about_photo/about_photo1.jpg" width="300px" height="300px" alt="photo1">   
     
     
   * 큐브   
   → 초딩 때부터 공식 외워놓고 돌리는거지만 생각없이 돌리면서 맞추다 보면 정신 건강에 좋은 듯   
-  <img src="/assets/images/about_photo/about_photo2.jpg" width="300px" height="300px" alt="photo1">   
+    <img src="/assets/images/about_photo/about_photo2.jpg" width="300px" height="300px" alt="photo1">   
    
 - - -
 
@@ -35,7 +35,7 @@ classes: wide
   * **LCK**   
   → T1, Faker 좋아함.   
   → 이번 스프링 내가 볼 때마다 역전패 당하길래 안 보는 중. 내가 문제인가?   
-  <img src="/assets/images/about_photo/about_photo3.jpg" width="400px" alt="photo1">    
+    <img src="/assets/images/about_photo/about_photo3.jpg" width="400px" alt="photo1">    
     
 - - -   
 
