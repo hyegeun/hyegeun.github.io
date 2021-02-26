@@ -4,7 +4,7 @@ title: "About"
 classes: wide
 ---
 
-# **말 많은 대학생이 올리는 Blog**
+## **어느  대학생이 올리는 Blog**
 
 ## **1. 취미생활**   
   * **피아노**   
@@ -16,8 +16,7 @@ classes: wide
   * **큐브**   
   → 초딩 때부터 공식 외워놓고 돌리는거지만 생각없이 돌리면서 맞추다 보면 정신 건강에 좋은 듯   
     <img src="/assets/images/about_photo/about_photo2.jpg" width="300px" height="300px" alt="photo1">   
-   
-- - -
+
 
 ## **2. 게임**   
   * **배틀그라운드**   
@@ -36,8 +35,7 @@ classes: wide
   → T1, Faker 좋아함.   
   → 이번 스프링 내가 볼 때마다 역전패 당하길래 안 보는 중. 내가 문제인가?   
     <img src="/assets/images/about_photo/about_photo3.jpg" width="400px" alt="photo1">    
-    
-- - -   
+ 
 
 ## **3. MBTI**   
   * **INTP**   
