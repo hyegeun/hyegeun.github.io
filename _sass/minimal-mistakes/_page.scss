@@ -71,6 +71,7 @@ body {
 .page__title {
   margin-top: 0;
   line-height: 1;
+  padding-bottom: 0.5em;
   border-bottom: 1px solid $border-color;	
 
   & + .page__meta {
