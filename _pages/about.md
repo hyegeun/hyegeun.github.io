@@ -40,10 +40,17 @@ classes: wide
   → T1, Faker 좋아함.   
   → 이번 스프링 내가 볼 때마다 역전패 당하길래 안 보는 중. 내가 문제인가?   
     <img src="/assets/images/about_photo/about_photo3.jpg" width="400px" alt="photo1">    
+    
+    
+## **3. 음악**    
+  * **버즈 노래 좋아하고 00년대 10년대 20년대 노래 다 좋아함.**
+  → 내 멜론 재생 목록 일부지만 아래 사진처럼 시대가 다양함    
+    <img src="/assets/images/about_photo/about_photo4.png" width="200px"> <img src="/assets/images/about_photo/about_photo5.png" width="200px">       
  
 
-## **3. MBTI**   
+## **4. MBTI**   
   * **INTP**   
   → 집을 너무 사랑해서 문제임.   
   → 약속 연달아 잡으면 녹초 되버림.   
   → 큰 계획은 세우지만 하루하루 열심히 계획 절대로 못 세움.   
+  
