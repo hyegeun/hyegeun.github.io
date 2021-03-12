@@ -43,7 +43,7 @@ classes: wide
     
     
 ## **3. 음악**    
-  * **버즈 노래 좋아하고 00년대 10년대 20년대 노래 다 좋아함.**
+  * **버즈 노래 좋아하고 00년대 10년대 20년대 노래 다 좋아함.**    
   → 내 멜론 재생 목록 일부지만 아래 사진처럼 시대가 다양함    
     <img src="/assets/images/about_photo/about_photo4.png" width="300px"> <img src="/assets/images/about_photo/about_photo5.png" width="300px">       
  
