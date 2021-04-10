@@ -101,9 +101,9 @@ analytics:
 # Site Author
 author:
   name             : "김혜근"
-  avatar           : "/assets/images/profile/profile_1.jpg" # 프로필 이미지
-  bio              : "슬기로운 3학년 생활 <br><br> -전공에 치여살다-"
-  location         : "Republic Of Korea"
+  avatar           : "/assets/images/profile/profile_photo2.jpg" # 프로필 이미지
+  bio              : "슬기로운 3학년 생활 <br><br> -공부하자 나레기-"
+  location         : "Republic of Korea"
   email            : "hyegeunann@naver.com"
   links:
     - label: "Email"
