@@ -39,7 +39,7 @@ classes: wide
   * **LCK**   
   → T1, Faker 좋아함.   
   → 이번 스프링 내가 볼 때마다 역전패 당하길래 안 보는 중. 내가 문제인가?    
-    \: 기가 막히게 플레이오프 젠지한테 3대 떡으로 졌네^^7
+    \: 기가 막히게 플레이오프 젠지한테 3대 떡으로 졌네^^7     
     <img src="/assets/images/about_photo/about_photo3.jpg" width="400px" alt="photo1">    
     
     
